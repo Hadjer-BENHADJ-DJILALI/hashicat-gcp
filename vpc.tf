@@ -1,7 +1,7 @@
 module "test-vpc-module" {
   source       = "../../"
-  project_id   = var.project_id
-  network_name = var.network_name
+  project_id   = "p-dwmjp1ioj5nixxxop8gd74ikb72x"
+  network_name = "vpc network"
 
   subnets = [
     {
