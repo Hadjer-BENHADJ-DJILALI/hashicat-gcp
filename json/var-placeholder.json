@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type":"vars",
+    "attributes": {
+      "key":"placeholder",
+      "value":"https://target.scene7.com/is/image/Target/GUEST_1e790ac2-7fd4-443a-be8d-09f3ef877a31?wid=488&hei=488&fmt=pjpeg",
+      "category":"terraform",
+      "hcl":false,
+      "sensitive":false
+    },
+    "relationships": {
+      "workspace": {
+        "data": {
+          "id":"ws-fTJe6Svtkiw4shbj",
+          "type":"workspaces"
+        }
+      }
+    }
+  }
+}
